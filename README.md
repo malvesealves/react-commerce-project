@@ -1,1 +1,1 @@
-# react-next-ecommerce-project
+# react-ecommerce-project
